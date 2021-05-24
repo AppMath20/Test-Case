@@ -1,0 +1,13 @@
+<config>
+    <file
+            source_path='D:/REPOSITORY/Professional/Python/Project/Test_Veeam/data/directoty_a/'
+            destination_path='D:/REPOSITORY/Professional/Python/Project/Test_Veeam/data/directoty_b/'
+            file_name='test.txt'
+    />
+    <file
+            source_path="D:\REPOSITORY\Professional\Python\Project\Test_Veeam\data\directoty_a\directory_a_1.0\"
+            destination_path="D:\REPOSITORY\Professional\Python\Project\Test_Veeam\data\directoty_a\directory_a_2.0\"
+            file_name="file.py"
+
+    />
+</config>
